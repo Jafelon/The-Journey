@@ -22,19 +22,15 @@ This game is a stealth/adventure game, adventure through the unknown world and f
 Game name : The Journey - The Unknown
 
 - Bulleted
-1. Release date - Unknown
-2. Creators : Jaeflon/Night Studio
-3. Inspired by : Tomb Raider, and Aragami
-
-I hope to see you in the future. 
+Release date - Unknown
+Creators : Jaeflon/Night Studio
+Inspired by : Tomb Raider, and Aragami
 - List
 
-1. Numbered
-2. List
 
 
 
-[Link](url) and ![Image](src)
+[Link](url https://twitter.com/Jaeflon) and ![Image](src https://wallpapershome.com/art/anime/anime-girl-castle-4k-18919.html)
 ```
 
 
