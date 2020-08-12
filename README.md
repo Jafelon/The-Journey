@@ -1,5 +1,5 @@
 ## Welcome to { The Journey } 
-   ### Created by : The Night Studio(Jaeflon)
+## Created by : The Night Studio(Jaeflon)
 
 Set on a journey, unknown memories, unknown people, unknown blade that is stained in blood. Who are you? 
 
