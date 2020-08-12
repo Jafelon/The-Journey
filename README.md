@@ -5,32 +5,36 @@ Set on a journey, unknown memories, unknown people, unknown blade that is staine
 
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+A site powered/created by Night Studio
+Operated by : Github
+
+------
+Night Studio aka Jaeflon. The games I create in the future or now are owned by Night Studio. pretty much me. 
+------
+The game I am creating is inspired by Aragami(Lince Works) and Tomb Raider franchise(Crynstal Dynamics and more)
+------
+This game is a stealth/adventure game, adventure through the unknown world and fight through enemies to figure out who you are and where you are. Chosen by unknown power. You and your stained sword are destined to survive no matter the cost. YOU MUST SURVIVE. 
+------
+Game name : The Journey - The Unknown
 
 - Bulleted
+1. Release date - Unknown
+2. Creators : Jaeflon/Night Studio
+3. Inspired by : Tomb Raider, and Aragami
+
+I hope to see you in the future. 
 - List
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jafelon/The_Journey/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
