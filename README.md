@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to { The Journey } 
+   ### Created by : The Night Studio(Jaeflon)
 
 Set on a journey, unknown memories, unknown people, unknown blade that is stained in blood. Who are you? 
 
-### Markdown
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
