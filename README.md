@@ -30,7 +30,7 @@ Inspired by : Tomb Raider, and Aragami
 
 
 
-[Link](url https://twitter.com/Jaeflon) and ![Image](src https://wallpapershome.com/art/anime/anime-girl-castle-4k-18919.html)
-```
+[Link](url=https://twitter.com/Jaeflon) a[Image](src=https://wallpapershome.com/art/anime/anime-girl-castle-4k-18919.html)
+
 
 
